@@ -134,14 +134,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhigyan6091&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhigyan6091&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/abhigyan-sharma-73b094304/" target="_blank">
