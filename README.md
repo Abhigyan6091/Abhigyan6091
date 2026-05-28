@@ -128,7 +128,7 @@ My interests include:
 ## Profiles
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhigyan-sharma-73b094304/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhigyan6091/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;
