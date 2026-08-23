@@ -1,6 +1,7 @@
-<div align="center">
-
+<div align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,161B22,21262D&height=200&section=header&text=Abhigyan%20Sharma&fontSize=60&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=ML%20Systems%20%E2%80%A2%20GenAI%20%E2%80%A2%20Backend%20Engineering&descAlignY=60&descSize=18&descColor=C9D1D9" width="100%"/>
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&random=false&width=650&lines=B.Tech+DSAI+%40+IIT+Bhilai;Building+Agentic+AI+Systems;LLM+Orchestration+%26+Tool+Infrastructure;Scalable+Backend+Engineering)](https://git.io/typing-svg)
 
@@ -19,7 +20,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Abhigyan6091&label=Profile+Views&color=0D1117&style=for-the-badge" alt="profile views"/>
+
 
 </div>
 
@@ -205,47 +206,9 @@ A collaborative learning platform powered by AI that facilitates knowledge excha
 
 ---
 
-### 🧠 Intelligent SQL Agent
 
-> **Natural language to optimized SQL using LLM-powered agents**
 
-- Developed an LLM-powered SQL agent capable of translating natural language into optimized SQL queries
-- Integrated schema-aware retrieval, query validation, and FastAPI orchestration pipelines
-- Automated analytical workflows while improving query reliability on structured datasets
 
-**Tech Stack:** `Python` `SQL` `FastAPI` `LLMs` `RAG` `PostgreSQL`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/Abhigyan6091/Intelligent-SQL-Agent)
-
----
-
-### 🎨 Structure-Aware Multi-Scale Pix2Pix
-
-> **High-fidelity image-to-image translation with GANs**
-
-- Implemented a structure-aware Pix2Pix GAN with multi-scale feature extraction and perceptual loss integration
-- Improved SSIM by **0.08** and reduced FID score by **18%** across 12K+ paired image samples
-- Built stable adversarial training workflows for high-fidelity image-to-image translation
-
-**Tech Stack:** `PyTorch` `GANs` `Computer Vision` `Deep Learning`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/Abhigyan6091/Structure-Aware-Multi-Scale-Pix2Pix)
-
----
-
-### 🌲 Disk-Based B+ Tree Index Engine
-
-> **PostgreSQL-style indexing engine from scratch in C++**
-
-- Implemented a persistent disk-based B+ Tree with optimized page management and I/O locality
-- Reduced query retrieval time by **62%** on datasets with 1M+ records
-- Simulated PostgreSQL/MySQL-style indexing architecture for scalable structured data retrieval
-
-**Tech Stack:** `C++` `DBMS` `Indexing` `File Systems` `Algorithms`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/Abhigyan6091/B_plus-Tree-disk-based-index-for-DBMS)
-
----
 
 ## 📊 GitHub Stats
 
