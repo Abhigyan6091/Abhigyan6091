@@ -1,7 +1,5 @@
 <div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,161B22,21262D&height=200&section=header&text=Abhigyan%20Sharma&fontSize=60&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=ML%20Systems%20%E2%80%A2%20GenAI%20%E2%80%A2%20Backend%20Engineering&descAlignY=60&descSize=18&descColor=C9D1D9" width="100%"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1026&customColorList=0B1026,171044,2B146B,5B21B6&height=200&section=header&text=Abhigyan%20Sharma&fontSize=60&fontColor=F5F3FF&animation=twinkling&fontAlignY=38&desc=ML%20Systems%20%E2%80%A2%20GenAI%20%E2%80%A2%20Backend%20Engineering&descAlignY=60&descSize=18&descColor=DDD6FE" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&random=false&width=650&lines=B.Tech+DSAI+%40+IIT+Bhilai;Building+Agentic+AI+Systems;LLM+Orchestration+%26+Tool+Infrastructure;Scalable+Backend+Engineering)](https://git.io/typing-svg)
 
