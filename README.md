@@ -170,22 +170,7 @@ A production-grade enterprise AI system that orchestrates multiple specialized A
 
 ---
 
-### 🎓 AutoGrader — LLM-Powered Evaluation System
 
-> **AI-native automated grading platform for educational workflows**
-
-An intelligent autograding system that leverages LLMs to evaluate student submissions at scale, achieving 85% evaluation accuracy on open-ended answers.
-
-- Built AI-powered autograding pipelines using LLM-based assessment with structured rubric prompting
-- Designed scalable FastAPI backend workflows with Docker containerization and PostgreSQL-backed storage
-- Implemented automated grading, response analysis, and evaluation orchestration for 500+ submissions
-- **Reduced manual grading overhead by 70%** while improving evaluation consistency across assessments
-
-**Tech Stack:** `Python` `FastAPI` `LLMs` `Docker` `PostgreSQL` `REST APIs` `AI Automation`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/Abhigyan6091/AutoGrader)
-
----
 
 ### 🔄 Reciprocal Learning System
 
