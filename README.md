@@ -1,219 +1,97 @@
-<div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1026&customColorList=0B1026,171044,2B146B,5B21B6&height=200&section=header&text=Abhigyan%20Sharma&fontSize=60&fontColor=F5F3FF&animation=twinkling&fontAlignY=38&desc=ML%20Systems%20%E2%80%A2%20GenAI%20%E2%80%A2%20Backend%20Engineering&descAlignY=60&descSize=18&descColor=DDD6FE" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&random=false&width=650&lines=B.Tech+DSAI+%40+IIT+Bhilai;Building+Agentic+AI+Systems;LLM+Orchestration+%26+Tool+Infrastructure;Scalable+Backend+Engineering)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://www.linkedin.com/in/abhigyan6091/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-  </a>
-  <a href="mailto:abhigyan.sharma6091@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=F78166"/>
-  </a>
-  <a href="https://github.com/Abhigyan6091">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9"/>
-  </a>
-  <a href="https://abhigyan6091.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3FB950"/>
-  </a>
-</p>
-
-
-
-</div>
-
----
-
-## ⚡ About Me
-
-```python
-class Abhigyan:
-    def __init__(self):
-        self.name      = "Abhigyan Sharma"
-        self.degree    = "B.Tech Data Science & AI @ IIT Bhilai (2023–2027)"
-        self.focus     = ["Agentic AI Systems", "LLM Orchestration", "Backend Engineering"]
-        self.interests = [
-            "Multi-agent orchestration & autonomous investigation systems",
-            "Tool infrastructure & governance for AI agents (MCP, RBAC)",
-            "GenAI infrastructure & RAG pipelines",
-            "Scalable FastAPI backends & microservices",
-            "Database internals & query optimization",
-            "Computer vision & deep learning",
-        ]
-
-    def currently_building(self):
-        return [
-            "Autonomous engineering intelligence & SRE agent systems",
-            "Secure, observable tool-execution runtimes for AI agents",
-            "Enterprise-grade multi-agent orchestration platforms",
-        ]
-
-    def philosophy(self):
-        return "Build systems that scale, models that reason, products that matter."
-```
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-**Languages**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1026&customColorList=0B1026,171044,2B146B,5B21B6&height=190&section=header&text=Abhigyan%20Sharma&fontSize=56&fontColor=F5F3FF&fontAlignY=38&desc=AI%20Systems%20%E2%80%A2%20GenAI%20%E2%80%A2%20Backend%20Engineering&descAlignY=61&descSize=17&descColor=DDD6FE" width="100%" alt="Abhigyan Sharma — AI Systems, GenAI, Backend Engineering" />
 
-![Python](https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark)
+<p>
+  <a href="https://www.linkedin.com/in/abhigyan-sharma-73b094304/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+  <a href="mailto:abhigyan.sharma6091@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://abhigyan6091.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3FB950" alt="Portfolio" /></a>
+  <a href="https://github.com/Abhigyan6091"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9" alt="GitHub" /></a>
+</p>
 
-**ML / AI**
-
-![PyTorch](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logoColor=FFCA28)
-![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=58A6FF)
-![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=C9D1D9)
-
-**Agentic / Tool Infrastructure**
-
-![MCP](https://img.shields.io/badge/MCP%20Protocol-0D1117?style=flat-square&logoColor=3FB950)
-![RBAC](https://img.shields.io/badge/RBAC-0D1117?style=flat-square&logoColor=3FB950)
-![Docker Sandbox](https://img.shields.io/badge/Docker%20Sandbox-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-
-**Backend / Systems**
-
-![FastAPI](https://skillicons.dev/icons?i=fastapi,flask,docker,linux,git&theme=dark)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&logoColor=58A6FF)
-![Microservices](https://img.shields.io/badge/Microservices-0D1117?style=flat-square&logoColor=C9D1D9)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0D1117?style=flat-square&logoColor=2088FF)
-
-**Databases / Data Engineering**
-
-![MySQL](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C)
-![Kafka](https://img.shields.io/badge/Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=C9D1D9)
-![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logoColor=FF3621)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
+**Building AI systems that are useful, observable, and reliable.**
 
 </div>
 
 ---
+
+## 👋 About Me
+
+I'm a **Data Science & AI undergraduate at IIT Bhilai** interested in the engineering behind intelligent systems—not just model demos.
+
+- 🤖 **Agentic AI:** multi-agent orchestration, tool calling, MCP, evaluation, and human-in-the-loop controls.
+- 🔎 **LLM applications:** RAG, hybrid retrieval, local inference, and natural-language interfaces to data.
+- ⚙️ **Backend & data systems:** APIs, asynchronous workflows, databases, containerized services, and data pipelines.
+- 🧪 **ML research & experimentation:** deep learning, computer vision, sequence models, and reproducible evaluation.
+
+I like projects where model quality meets systems engineering: measurable evaluations, explicit failure handling, traceability, and deployment constraints.
 
 ## 🚀 Featured Projects
 
-### 🛰️ Autonomous Engineering Intelligence Platform (AEIP)
+### 🎓 [Shiksha Sarthi — Offline-First Learning Platform](https://github.com/Abhigyan6091/ShikshaSarthi)
+An offline-first school learning, assessment, and grading platform that runs on a local school server, keeping day-to-day classroom workflows available when internet connectivity is unreliable. When connectivity returns, controlled cloud sync supports backups, multi-school updates, and central question-bank updates.
 
-> **AI Software Reliability Engineer — autonomous incident investigation & remediation**
+- **Highlights:** Local-first classroom workflows, bidirectional AWS sync, and checksum-verified app updates designed to protect school data.
+- **Built with:** React, TypeScript, Vite, Node.js, Express, MongoDB, Docker, AWS, Nginx.
 
-An agentic system that behaves like an AI SRE: given an incident or audit objective, it plans its own investigation, runs specialized agents in parallel (code, log, metrics, test, research), forms and challenges evidence-backed hypotheses via a dedicated Critic agent, and recommends remediations — with human approval required before any consequential action and full audit provenance.
+### ⚒️ [ToolForge — Agent Tool Infrastructure & MCP Platform](https://github.com/Abhigyan6091/ToolForge)
+A secure execution gateway for AI agents that manages the full tool-call lifecycle: discovery, JSON Schema validation, capability-based RBAC, sandboxed execution, retries, timeouts, and structured observability. It exposes tools through MCP, REST, LangGraph, and OpenAI function-calling adapters.
 
-- Orchestrated a multi-agent LangGraph workflow (Supervisor, Planner, Code, Test, Log, Metrics, Research, Hypothesis, Critic, Remediation agents)
-- Built a Tool Gateway integrating Git tooling, sandboxed execution, and Qdrant-based retrieval
-- Designed a FastAPI backend + Next.js dashboard with full incident/audit investigation modes
-- Enforced human-in-the-loop approval gates for all consequential remediation actions
+- **Highlights:** 26 standard tools, 86 tests reported by the repository, and CI coverage across multiple operating systems and Python versions.
+- **Built with:** Python, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, Redis, Docker, MCP, LangGraph, Prometheus.
 
-**Tech Stack:** `Python` `FastAPI` `LangGraph` `Next.js` `PostgreSQL` `Redis` `Qdrant` `Docker`
+### 🛰️ [Autonomous Engineering Intelligence Platform (AEIP)](https://github.com/Abhigyan6091/Autonomous-Engineering-Intelligence-Platform)
+An AI software-reliability system that autonomously investigates incidents across code, logs, metrics, Git history, and tests; builds evidence-backed hypotheses; challenges findings through a Critic agent; and recommends remediations with human approval and audit provenance.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/Abhigyan6091/Autonomous-Engineering-Intelligence-Platform)
+- **Evaluation:** 92.3% root-cause accuracy on a 10-incident benchmark; live-run evidence recall of 0.75.
+- **Built with:** Python, LangGraph, FastAPI, Next.js, PostgreSQL, Redis, Qdrant, Docker.
 
----
+### 💳 [Fraud Detection — AI Risk Manager](https://github.com/Abhigyan6091/Fraud-Detection)
+A merchant-focused fraud decisioning system that goes beyond fraud probability by estimating expected financial loss, detecting attack episodes, explaining decisions, and choosing whether to approve, verify, or block a transaction based on cost.
 
-### ⚒️ ToolForge — Agent Tool Infrastructure & MCP Platform
+- **Held-out evaluation:** On 439,813 transactions, the repository reports 99.0% of modeled fraud exposure prevented, 204 false declines, and PR-AUC of 0.9701. Results are specific to the documented public-dataset evaluation and cost assumptions.
+- **Built with:** Python, XGBoost, Isolation Forest, SHAP, feature engineering, expected-loss decisioning, data analysis.
 
-> **Governed, observable, and secure tool execution runtime for AI agents**
+### 🛡️ [WinGuard — Adaptive Windows Process Isolation](https://github.com/Abhigyan6091/WinGuard-Framework)
+A native Windows security framework that applies kernel-enforced isolation to untrusted processes and adapts CPU, memory, and process limits as runtime behavior changes. Suspended process launch helps ensure containment is applied before the process begins executing.
 
-A production-grade gateway sitting between AI agents and the outside world — giving every tool call full lifecycle management: discovery, schema validation, RBAC authorization, sandboxed execution, and structured observability, exposed over MCP, LangGraph, and OpenAI function-calling adapters.
+- **Highlights:** Windows Job Objects, restricted access tokens, low-integrity labels, isolated workspaces, high-frequency telemetry, and an adaptive escalation-and-recovery state machine. The repository reports a 79.2% resident-memory reduction in its LEVEL 2 benchmark.
+- **Built with:** C, Win32 API, Windows security primitives, process monitoring, CSV telemetry.
 
-- Built a capability-based RBAC engine with an `admin > developer > agent > viewer` hierarchy and per-category permissions
-- Shipped 26 standard tools (web, files, data, database, git, GitHub, code, AI) with auto-generated JSON Schema via Pydantic v2
-- Implemented sandboxed execution in ephemeral Docker containers, a sliding-window rate limiter, and a circuit breaker
-- Exposed the platform over MCP stdio/HTTP, REST (FastAPI), and a live observability dashboard with Prometheus metrics
-- Covered by 86 tests across a 9-environment CI matrix (3 OS × 3 Python versions)
+### 🧿 [Sentinel-Aegis — AI Application Security & Red Teaming](https://github.com/Abhigyan6091/Sentinel-Aegis)
+A local AI application security platform for exercising and observing defenses against prompt injection, jailbreaks, RAG poisoning, tool abuse, and data leakage. It brings runtime guardrails, context-firewall checks, tool authorization, red-team campaigns, findings, and security scoring into one workflow.
 
-**Tech Stack:** `Python` `FastAPI` `Pydantic v2` `SQLAlchemy` `PostgreSQL` `Redis` `Docker` `MCP Protocol` `LangGraph` `Prometheus`
+- **Highlights:** Tenant-aware backend APIs, persisted traces and campaign results, Prometheus metrics, Grafana dashboards, and a deterministic adversarial CI security gate.
+- **Built with:** Python, FastAPI, Next.js, PostgreSQL, Redis, Qdrant, Redpanda, Prometheus, Grafana, Docker Compose.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/Abhigyan6091/ToolForge)
+[Explore all my repositories →](https://github.com/Abhigyan6091?tab=repositories) · [View my portfolio →](https://abhigyan6091.github.io/Portfolio/)
 
----
+## 🧰 Technical Toolkit
 
-### 📚 Shiksha Sarthi
+| Area | Technologies & concepts |
+|---|---|
+| **Languages** | Python, C++, C, Java, JavaScript, TypeScript, SQL |
+| **ML & Computer Vision** | PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, OpenCV, CNNs, ViTs, GANs |
+| **LLM & Agent Systems** | LangChain, LangGraph, RAG, hybrid retrieval, MCP, tool calling, prompt/evaluation design, Ollama |
+| **Backend & Web** | FastAPI, Flask, Django REST Framework, Node.js, Express, React, Next.js, REST APIs, asynchronous services |
+| **Databases & Retrieval** | PostgreSQL, MySQL, MongoDB, Redis, Qdrant, FAISS, vector search, BM25 |
+| **Data Engineering** | ETL/ELT, Apache Airflow, Apache Spark, Kafka, data lineage, feature engineering |
+| **Cloud & Engineering** | Docker, Docker Compose, AWS, Git, Linux, GitHub Actions, CI/CD, testing, observability |
+| **Core CS** | Data structures & algorithms, OOP, DBMS, operating systems, computer networks, system design |
 
-> **Offline-first learning platform for schools with unreliable internet**
+## 📊 GitHub Snapshot
 
-A decentralised school platform where every school runs its own full app (frontend, API, and database) locally, so teaching, testing, and grading never depend on connectivity. A lightweight AWS control plane handles opt-in bidirectional sync, checksum-verified app updates, and backups across schools — without ever acting as a live application server.
-
-- Built a four-tier role system (Super Admin → School Admin → Teacher → Student) with scoped, top-down account provisioning
-- Designed a bidirectional local-cloud sync engine that resumes automatically after connectivity loss, with manual trigger support for admins
-- Implemented a checksum-verified, admin-approved update pipeline that never touches student data, quiz history, or uploaded media
-- Delivered adaptive testing, quiz analytics, and per-student insight dashboards for teachers, alongside optional Gemini-powered question hints
-- Containerized the full stack (React/Vite frontend + Express/Node API + MongoDB) behind nginx for one-command school-server deployment
-
-**Tech Stack:** `React` `TypeScript` `Vite` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Docker` `AWS Lambda` `AWS S3` `DynamoDB`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/Abhigyan6091/ShikshaSarthi)
-
----
-
-### 🏢 Enterprise AI Intelligence Platform
-
-> **Multi-agent GenAI platform for organizational intelligence**
-
-A production-grade enterprise AI system that orchestrates multiple specialized AI agents for knowledge management, analytics, and decision support across large organizations. Designed with a modular agentic architecture that integrates RAG pipelines, vector search, and LLM-based reasoning into a unified intelligence layer.
-
-- Architected a multi-agent orchestration layer supporting domain-specific AI assistants across HR, Finance, and Operations verticals
-- Built end-to-end RAG pipelines with hybrid vector + keyword retrieval for accurate, grounded enterprise knowledge queries
-- Designed scalable FastAPI microservices with PostgreSQL-backed persistence and Docker containerization
-- Integrated LangGraph-based agentic workflows for context-aware, multi-step task resolution
-
-**Tech Stack:** `Python` `FastAPI` `LangGraph` `LLMs` `RAG` `PostgreSQL` `Docker` `Vector DB` `Microservices`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/Abhigyan6091)
-
----
-
-
-
-### 🔄 Reciprocal Learning System
-
-> **Adaptive peer-to-peer learning orchestration platform**
-
-A collaborative learning platform powered by AI that facilitates knowledge exchange between learners by matching knowledge gaps with expertise. Builds personalized learning graphs, dynamically identifies optimal peer pairings, and tracks knowledge transfer over time.
-
-- Designed an AI-driven pairing engine that maps learner knowledge graphs against expertise profiles for optimal matching
-- Built adaptive learning pathways with real-time feedback loops and progress-tracking dashboards
-- Implemented NLP-based knowledge assessment to identify and bridge individual learning gaps automatically
-- Orchestrated multi-session learning workflows with LLM-assisted content curation and summarization
-
-**Tech Stack:** `Python` `FastAPI` `NLP` `LLMs` `PostgreSQL` `Graph Algorithms` `REST APIs`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9)](https://github.com/Abhigyan6091)
-
----
-
-
-
-
-
-## 📊 GitHub Stats
-
+<!-- This SVG is generated and committed by .github/workflows/update-github-stats.yml. -->
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhigyan6091&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigyan6091&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
+  <img src="./assets/github-stats.svg" alt="Automatically refreshed GitHub repository, star, fork, and language statistics" width="100%" />
 </div>
 
-<div align="center">
+The stats card is generated by a GitHub Actions workflow in this repository. It uses GitHub's API and stores the result here, so your profile does not rely on a public third-party stats-card host. It refreshes daily; you can also run the workflow manually from the **Actions** tab.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhigyan6091&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+## 🤝 Let’s Connect
 
-</div>
+I'm interested in AI/ML engineering, GenAI infrastructure, backend and data engineering, and research-oriented projects. Feel free to reach out if you'd like to discuss a technical idea or collaborate.
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,161B22,21262D&height=100&section=footer" width="100%"/>
-
-*"Build systems that scale, models that reason, products that matter."*
-
-</div>
+<p align="center">
+  <i>“Build systems that scale, models that reason, products that matter.”</i>
+</p>
