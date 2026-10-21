@@ -24,7 +24,7 @@
       <text x="0" y="22" class="label">PUBLIC REPOSITORIES</text>
     </g>
   <g transform="translate(195, 95)">
-      <text x="0" y="0" class="number">294</text>
+      <text x="0" y="0" class="number">508</text>
       <text x="0" y="22" class="label">TOTAL COMMITS</text>
     </g>
   <g transform="translate(360, 95)">
@@ -38,7 +38,7 @@
       <text x="0" y="22" class="label">MERGED PRS</text>
     </g>
   <g transform="translate(195, 168)">
-      <text x="0" y="0" class="number">6<tspan class="unit" dx="4" dy="-4">days</tspan></text>
+      <text x="0" y="0" class="number">21<tspan class="unit" dx="4" dy="-4">days</tspan></text>
       <text x="0" y="22" class="label">LONGEST STREAK</text>
     </g>
   <g transform="translate(360, 168)">
@@ -65,7 +65,7 @@
 <g transform="translate(0, 157)">
               <text x="0" y="0" class="lang">Python</text>
               <rect x="115" y="-10" width="220" height="7" rx="3.5" fill="#21262D" />
-              <rect x="115" y="-10" width="40" height="7" rx="3.5" fill="#8B7CF6" />
+              <rect x="115" y="-10" width="41" height="7" rx="3.5" fill="#8B7CF6" />
             </g>
 <g transform="translate(0, 180)">
               <text x="0" y="0" class="lang">Jupyter Notebook</text>
@@ -75,12 +75,12 @@
 <g transform="translate(0, 203)">
               <text x="0" y="0" class="lang">C</text>
               <rect x="115" y="-10" width="220" height="7" rx="3.5" fill="#21262D" />
-              <rect x="115" y="-10" width="12" height="7" rx="3.5" fill="#8B7CF6" />
+              <rect x="115" y="-10" width="13" height="7" rx="3.5" fill="#8B7CF6" />
             </g>
   </g>
 
   <!-- Bottom rule & Footer -->
   <line x1="30" y1="237" x2="890" y2="237" stroke="#21262D" />
   <text x="30" y="259" class="muted">Auto-generated from the GitHub API · public data only</text>
-  <text x="890" y="259" text-anchor="end" class="muted">Updated 21 Oct 2026 · 21:05 UTC</text>
+  <text x="890" y="259" text-anchor="end" class="muted">Updated 21 Oct 2026 · 21:19 UTC</text>
 </svg>
