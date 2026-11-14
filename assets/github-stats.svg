@@ -20,11 +20,11 @@
 
   <!-- Row 1 -->
   <g transform="translate(30, 95)">
-      <text x="0" y="0" class="number">34</text>
+      <text x="0" y="0" class="number">35</text>
       <text x="0" y="22" class="label">PUBLIC REPOSITORIES</text>
     </g>
   <g transform="translate(195, 95)">
-      <text x="0" y="0" class="number">650</text>
+      <text x="0" y="0" class="number">653</text>
       <text x="0" y="22" class="label">TOTAL COMMITS</text>
     </g>
   <g transform="translate(360, 95)">
@@ -65,7 +65,7 @@
 <g transform="translate(0, 157)">
               <text x="0" y="0" class="lang">Python</text>
               <rect x="115" y="-10" width="220" height="7" rx="3.5" fill="#21262D" />
-              <rect x="115" y="-10" width="41" height="7" rx="3.5" fill="#8B7CF6" />
+              <rect x="115" y="-10" width="42" height="7" rx="3.5" fill="#8B7CF6" />
             </g>
 <g transform="translate(0, 180)">
               <text x="0" y="0" class="lang">Jupyter Notebook</text>
@@ -82,5 +82,5 @@
   <!-- Bottom rule & Footer -->
   <line x1="30" y1="237" x2="890" y2="237" stroke="#21262D" />
   <text x="30" y="259" class="muted">Auto-generated from the GitHub API · public data only</text>
-  <text x="890" y="259" text-anchor="end" class="muted">Updated 13 Nov 2026 · 11:12 UTC</text>
+  <text x="890" y="259" text-anchor="end" class="muted">Updated 14 Nov 2026 · 10:38 UTC</text>
 </svg>
