@@ -20,11 +20,11 @@
 
   <!-- Row 1 -->
   <g transform="translate(30, 95)">
-      <text x="0" y="0" class="number">36</text>
+      <text x="0" y="0" class="number">37</text>
       <text x="0" y="22" class="label">PUBLIC REPOSITORIES</text>
     </g>
   <g transform="translate(195, 95)">
-      <text x="0" y="0" class="number">709</text>
+      <text x="0" y="0" class="number">719</text>
       <text x="0" y="22" class="label">TOTAL COMMITS</text>
     </g>
   <g transform="translate(360, 95)">
@@ -42,7 +42,7 @@
       <text x="0" y="22" class="label">LONGEST STREAK</text>
     </g>
   <g transform="translate(360, 168)">
-      <text x="0" y="0" class="number">6<tspan class="unit" dx="4" dy="-4">days</tspan></text>
+      <text x="0" y="0" class="number">8<tspan class="unit" dx="4" dy="-4">days</tspan></text>
       <text x="0" y="22" class="label">CURRENT STREAK</text>
     </g>
 
@@ -65,7 +65,7 @@
 <g transform="translate(0, 157)">
               <text x="0" y="0" class="lang">Python</text>
               <rect x="115" y="-10" width="220" height="7" rx="3.5" fill="#21262D" />
-              <rect x="115" y="-10" width="42" height="7" rx="3.5" fill="#8B7CF6" />
+              <rect x="115" y="-10" width="43" height="7" rx="3.5" fill="#8B7CF6" />
             </g>
 <g transform="translate(0, 180)">
               <text x="0" y="0" class="lang">Jupyter Notebook</text>
@@ -82,5 +82,5 @@
   <!-- Bottom rule & Footer -->
   <line x1="30" y1="237" x2="890" y2="237" stroke="#21262D" />
   <text x="30" y="259" class="muted">Auto-generated from the GitHub API · public data only</text>
-  <text x="890" y="259" text-anchor="end" class="muted">Updated 20 Nov 2026 · 11:53 UTC</text>
+  <text x="890" y="259" text-anchor="end" class="muted">Updated 21 Nov 2026 · 11:22 UTC</text>
 </svg>
